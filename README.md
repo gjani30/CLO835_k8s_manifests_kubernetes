@@ -1,1 +1,1 @@
-# CLO835_k8s_manifests
+# CLO835_k8s_manifests_kubernetes
